@@ -24,6 +24,7 @@ Trata-se de uma tarefa de **Classificação**, onde a variável-alvo (`HeartDise
 * `notebook_IA.ipynb`: o Jupyter Notebook principal contendo todo o fluxo do projeto (Compreensão dos Dados, Análise Exploratória (EDA), Pré-processamento via *Pipeline*, Validação Cruzada, Treinamento e Avaliação Final).
 * `README.md`: arquivo de documentação geral do repositório.
 * `heart.csv`: base de dados bruta utilizada para o treinamento.
+* `link-video.txt`: link do vídeo de explicação.
 
 ## Como abrir o notebook no Google Colab
 1. Baixe o arquivo `notebook_IA.ipynb` deste repositório.
